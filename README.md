@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yaowen Chang</h1>
 
-<!--
-**ZZZPhaethon/ZZZPhaethon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A master's student passionate about Deep Learning and Computer Vision.  
+🌱 Currently studying **Semantic Segmentation & Remote Sensing AI**  
+🧑‍💻 Interested in **Embodied AI, VHR image segmentation, and ML engineering**  
+📫 Contact: yaowen@example.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZPhaethon&layout=compact)
+
+---
+
+![](https://komarev.com/ghpvc/?username=ZZZPhaethon&label=Profile%20views)
