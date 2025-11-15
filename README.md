@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ZZZPhaethon&label=Profile%20Views&color=blue" alt="profile views" />
 </p>
 
----
-
 ## 🔥 About Me
 
 - 🎓 Master’s student (Environmental Data Science & ML)
@@ -15,8 +13,6 @@
 - 💡 Passionate about building ML systems end-to-end
 - 📍 Wuhan University → Imperial College London
 - 📬 Contact me: **yaowenchang.ic@gmail.com** 
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,9 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 </p>
 
----
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -46,15 +39,12 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZPhaethon&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="mailto:qingwentan29@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" /></a>
+  <a href="mailto:yaowenchang.ic@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" /></a>
   <a href="https://www.linkedin.com"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
 </p>
-
----
 
 ⭐️ From [ZZZPhaethon](https://github.com/ZZZPhaethon)
