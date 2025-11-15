@@ -1,60 +1,30 @@
-<h1 align="center">Hi 👋, I'm Yaowen Chang (常耀文)</h1>
-<h3 align="center">Machine Learning • Computer Vision • Remote Sensing</h3>
+<h1 align="center">Hi 👋, I'm TanQingwen</h1>
+<h3 align="center">A master's student who has just begun her deep-learning studies</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZZZPhaethon&label=Profile%20Views&color=blue" alt="profile views" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanqingwen&label=Profile%20views&color=0e75b6&style=flat" alt="tanqingwen" /> </p>
+
+- 🔭 I’m currently working on [educating myself and follow my peers](https://github.com/WHU-USI3DV/3DBIE-SolarPV)
+
+- 🌱 I’m currently learning **Semantic segmentation**
+
+- 👯 I’m looking to collaborate on **Deep learning & Facade parsing**
+
+- 👨‍💻 All of my projects are available at [https://github.com/TanQingw](https://github.com/TanQingw)
+
+- 📝 I regularly write articles on [https://github.com/TanQingw](https://github.com/TanQingw)
+
+- 📫 How to reach me **qingwentan29@gmail.com**
+
+- ⚡ Fun fact **Occasionally get hooked on Bread**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  Email: qingwentan29@gmail.com<br>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-## 🔥 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanqingwen&show_icons=true&locale=en&layout=compact" alt="tanqingwen" /></p>
 
-- 🎓 Master’s student (Environmental Data Science & ML)
-- 🎯 Focusing on **Deep Learning, Computer Vision, Remote Sensing**
-- 🛰️ Interested in **VHR Image Segmentation, Embodied AI, GeoAI**
-- 💡 Passionate about building ML systems end-to-end
-- 📍 Wuhan University → 🇬🇧 (studying abroad)
-- 📬 Contact me: **yaowen@gmail.com** (替换成你的真实邮箱)
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-</p>
-
-### **Frameworks & Tools**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZPhaethon&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="mailto:qingwentan29@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
-</p>
-
----
-
-⭐️ From [ZZZPhaethon](https://github.com/ZZZPhaethon)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanqingwen&show_icons=true&locale=en" alt="tanqingwen" /></p>
