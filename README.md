@@ -49,9 +49,9 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZZZPhaethon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ZZZPhaethon" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZZZPhaethon&show_icons=true&locale=en&layout=compact&theme=nord_bright" alt="ZZZPhaethon" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true&locale=en&theme=tokyonight" alt="ZZZPhaethon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true&locale=en&theme=nord_bright" alt="ZZZPhaethon" />
 </p>
