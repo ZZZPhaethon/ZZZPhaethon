@@ -3,8 +3,7 @@
 🎓 A master's student passionate about Deep Learning and Computer Vision.  
 🌱 Currently studying **Semantic Segmentation & Remote Sensing AI**  
 🧑‍💻 Interested in **Embodied AI, VHR image segmentation, and ML engineering**  
-📫 Contact: yaowen@example.com
-
+📫 Contact: yaowenchang.ic@gmail.com
 ---
 
 ### 🔧 Tech Stack
