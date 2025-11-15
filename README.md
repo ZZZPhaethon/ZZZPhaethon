@@ -1,24 +1,79 @@
-<h1 align="center">Hi 👋, I'm Yaowen Chang</h1>
+<h1 align="center">Hi 👋, I'm Yaowen Chang (常耀文)</h1>
+<h3 align="center">Machine Learning • Computer Vision • Remote Sensing</h3>
 
-🎓 A master's student passionate about Deep Learning and Computer Vision.  
-🌱 Currently studying **Semantic Segmentation & Remote Sensing AI**  
-🧑‍💻 Interested in **Embodied AI, VHR image segmentation, and ML engineering**  
-📫 Contact: yaowenchang.ic@gmail.com
----
-
-### 🔧 Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZZZPhaethon&label=Profile%20Views&color=blue" alt="profile views" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZPhaethon&layout=compact)
+## 🔥 About Me
+
+- 🎓 Master’s student (Environmental Data Science & ML)
+- 🎯 Focusing on **Deep Learning, Computer Vision, Remote Sensing**
+- 🛰️ Interested in **VHR Image Segmentation, Embodied AI, GeoAI**
+- 💡 Passionate about building ML systems end-to-end
+- 📍 Wuhan University → 🇬🇧 (studying abroad)
+- 📬 Contact me: **yaowen@gmail.com** (替换成你的真实邮箱)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ZZZPhaethon&label=Profile%20views)
+## 🛠️ Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+</p>
+
+### **Frameworks & Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+</p>
+
+---
+
+## 🚀 Highlight Projects
+
+### 🔹 **Embodied-AI-Learning-instructions**
+📁 *Learning instructions for beginners who want to explore Embodied AI*  
+⭐ 4 | 🔧 Jupyter Notebook  
+🔗 https://github.com/ZZZPhaethon/Embodied-AI-Learning-instructions
+
+---
+
+### 🔹 **VHR-Seg**
+📁 *Very High Resolution image segmentation experiments and notes*  
+⭐ 3 | 🔧 Jupyter Notebook  
+🔗 https://github.com/ZZZPhaethon/VHR-Seg
+
+---
+
+(可继续添加更多项目)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZPhaethon&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="mailto:qingwentan29@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
+</p>
+
+---
+
+⭐️ From [ZZZPhaethon](https://github.com/ZZZPhaethon)
