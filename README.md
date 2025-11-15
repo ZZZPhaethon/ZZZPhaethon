@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm TanQingwen</h1>
-<h3 align="center">A master's student who has just begun her deep-learning studies</h3>
+<h1 align="center">Hi 👋, I'm Yaowen Chang</h1>
+<h3 align="center">A graduate student who has just begun her deep-learning studies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanqingwen&label=Profile%20views&color=0e75b6&style=flat" alt="tanqingwen" /> </p>
 
