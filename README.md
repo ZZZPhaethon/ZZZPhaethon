@@ -38,26 +38,6 @@
 
 ---
 
-## 🚀 Highlight Projects
-
-### 🔹 **Embodied-AI-Learning-instructions**
-📁 *Learning instructions for beginners who want to explore Embodied AI*  
-⭐ 4 | 🔧 Jupyter Notebook  
-🔗 https://github.com/ZZZPhaethon/Embodied-AI-Learning-instructions
-
----
-
-### 🔹 **VHR-Seg**
-📁 *Very High Resolution image segmentation experiments and notes*  
-⭐ 3 | 🔧 Jupyter Notebook  
-🔗 https://github.com/ZZZPhaethon/VHR-Seg
-
----
-
-(可继续添加更多项目)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
