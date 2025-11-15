@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaowen Chang (常耀文)</h1>
+<h1 align="center">Hi 👋, I'm Yaowen Chang</h1>
 <h3 align="center">Machine Learning • Computer Vision • Remote Sensing</h3>
 
 <p align="center">
@@ -13,8 +13,8 @@
 - 🎯 Focusing on **Deep Learning, Computer Vision, Remote Sensing**
 - 🛰️ Interested in **VHR Image Segmentation, Embodied AI, GeoAI**
 - 💡 Passionate about building ML systems end-to-end
-- 📍 Wuhan University → 🇬🇧 (studying abroad)
-- 📬 Contact me: **yaowen@gmail.com** (替换成你的真实邮箱)
+- 📍 Wuhan University → Imperial College London
+- 📬 Contact me: **yaowenchang.ic@gmail.com** 
 
 ---
 
