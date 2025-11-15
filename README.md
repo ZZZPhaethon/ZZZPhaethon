@@ -48,11 +48,12 @@
 
 ---
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZZZPhaethon&theme=nord_bright)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZZZPhaethon&show_icons=true&locale=en&layout=compact&theme=github_light" alt="ZZZPhaethon" />
+</p>
 
-![Most Used Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZZZPhaethon&theme=nord_bright)
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true&locale=en&theme=github_light" alt="ZZZPhaethon" />
+</p>
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZZZPhaethon&theme=nord_bright)
-
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZZZPhaethon&theme=nord_bright)
 
