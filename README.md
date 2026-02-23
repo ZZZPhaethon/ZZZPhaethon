@@ -17,6 +17,9 @@
 - 📝 I sometimes write articles and notes on  
   **https://github.com/ZZZPhaethon**
 
+- 📝 My personal academic page is
+  **https://zzzphaethon.github.io/**
+
 - 📫 How to reach me: **yaowenchang.ic@gmail.com**
 
 - ⚡ Fun fact: **Occasionally get hooked on Bread 🍞**
