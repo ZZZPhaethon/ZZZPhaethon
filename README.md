@@ -1,19 +1,4 @@
-<h2>Hi there, I'm <a href="https://github.com/ZZZPhaethon">Yaowen Chang</a> 👋</h2>
-
-<p>
-  <img
-    src="https://komarev.com/ghpvc/?username=ZZZPhaethon&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
-</p>
-
-<img
-  align="left"
-  width="165"
-  src="https://github.com/ZZZPhaethon.png"
-  alt="Yaowen Chang"
-/>
-
+### Hi there 👋 , I'm [Yaowen Chang](https://github.com/ZZZPhaethon) <p  align="right"><img src="https://github.com/ZZZPhaethon/ZZZPhaethon/blob/main/assets/profile.png" alt="visitor badge"/></p>
 I am a researcher interested in building reliable and efficient AI systems for understanding the physical world.
 
 My work currently focuses on **computer vision**, **semantic segmentation**, **3D-aware learning**, and **environmental intelligence**.
