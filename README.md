@@ -1,87 +1,81 @@
-<h1 align="center">Hi, I'm Yaowen Chang 👋</h1>
-
-<p align="center">
-  AI Researcher | Computer Vision | Remote Sensing | 3D Vision | Environmental Intelligence
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/<your-linkedin-id>/">LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=<your-scholar-id>">Google Scholar</a> ·
-  <a href="mailto:<your-email>">Email</a>
-</p>
-
----
-
-## About Me
-
-I am interested in building reliable and efficient AI systems for understanding the physical world.
-
-My research interests include:
-
-- Panoramic semantic segmentation and domain adaptation
-- Vision-language reasoning for segmentation
-- Geometry-aware dense prediction and 3D vision
-- LiDAR scene completion and uncertainty-aware perception
-- AI for climate, CCUS, and environmental applications
-
----
-
-## Selected Projects
-
-### 🌐 DAPASS — Source-Free Panoramic Semantic Segmentation
-A framework for robust panoramic semantic segmentation under source-free domain adaptation.
-
-- Focus: panoramic distortion, pseudo-label denoising, cross-resolution alignment
-- Keywords: semantic segmentation, domain adaptation, 360° vision
-- Repository: [Coming soon](https://github.com/<your-username>/<repo-name>)
-
-### 🛰️ VHR-Seg — Very High Resolution Remote Sensing Segmentation
-A coarse-to-fine semantic segmentation framework for very-high-resolution UAV imagery.
-
-- Focus: fine-grained land-cover mapping from UAV imagery
-- Keywords: remote sensing, Mask2Former, HRSegFormer, geospatial AI
-- Repository: [Coming soon](https://github.com/<your-username>/<repo-name>)
-
-### 🚢 AI-Driven CCUS Network Optimisation
-A simulation and optimisation framework for carbon capture, transport, and storage operations.
-
-- Focus: maritime CO₂ logistics, operation scheduling, RL and MILP
-- Keywords: CCUS, reinforcement learning, optimisation, climate AI
-- Repository: [Coming soon](https://github.com/<your-username>/<repo-name>)
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,git,github,linux,docker,latex,vscode" />
-</p>
-
----
-
-## GitHub Stats
+<h2>Hi there, I'm <a href="https://github.com/ZZZPhaethon">Yaowen Chang</a> 👋</h2>
 
 <p>
   <img
-    height="160"
+    src="https://komarev.com/ghpvc/?username=ZZZPhaethon&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
+
+<img
+  align="left"
+  width="165"
+  src="https://github.com/ZZZPhaethon.png"
+  alt="Yaowen Chang"
+/>
+
+I am a researcher interested in building reliable and efficient AI systems for understanding the physical world.
+
+My work currently focuses on **computer vision**, **semantic segmentation**, **3D-aware learning**, and **environmental intelligence**.
+
+- 🌐 Panoramic semantic segmentation and source-free domain adaptation  
+- 🛰️ Remote sensing and very-high-resolution image understanding  
+- 🧠 Vision-language reasoning for segmentation  
+- 📐 Geometry-aware dense prediction and 3D vision  
+- 🌍 AI for climate, CCUS, and environmental applications  
+
+<br clear="left"/>
+
+---
+
+### Connect with me
+
+[![GitHub followers](https://img.shields.io/github/followers/ZZZPhaethon?style=social)](https://github.com/ZZZPhaethon)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_ID/)
+
+[![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_SCHOLAR_ID)
+
+[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL)
+
+[![Website Badge](https://img.shields.io/badge/-Website-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://REPLACE_WITH_YOUR_WEBSITE)
+
+---
+
+> Building AI systems that can perceive, reason about, and better understand the physical world.
+
+---
+
+### Featured Research Areas
+
+| Area | Current Interests |
+|---|---|
+| 🌐 Panoramic Vision | ERP semantic segmentation, distortion-aware learning, source-free UDA |
+| 🛰️ Geospatial AI | UAV imagery, remote sensing segmentation, environmental mapping |
+| 📐 3D Vision | Geometry-aware representation learning, dense prediction, LiDAR completion |
+| 🌍 Climate AI | CCUS optimisation, carbon transport networks, environmental intelligence |
+
+---
+
+### GitHub Stats
+
+<p>
+  <img
+    height="165"
     src="https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
   />
 
   <img
-    height="160"
+    height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZPhaethon&layout=compact&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
-## Current Focus
-
-- Building reasoning-guided panoramic segmentation systems
-- Exploring geometry-aware universal dense prediction
-- Developing AI-driven optimisation for carbon capture and storage networks
-
 ---
 
-<p align="center">
-  <i>Open to research collaboration in computer vision, geospatial AI, 3D vision, and climate intelligence.</i>
-</p>
+[![Sign my guestbook](https://img.shields.io/badge/-🖊%20Sign%20my%20guestbook-8A2BE2?style=flat-square)](https://github.com/ZZZPhaethon/ZZZPhaethon/issues/new?title=Guestbook+entry)
+
+[![Say hello](https://img.shields.io/badge/-Say%20hello-2EA44F?style=flat-square&logo=github&logoColor=white)](https://github.com/ZZZPhaethon)
 
