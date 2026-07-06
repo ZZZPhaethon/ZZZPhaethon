@@ -62,11 +62,16 @@ A simulation and optimisation framework for carbon capture, transport, and stora
 ## GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide_border=true" />
-</p>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=ZZZPhaethon&show_icons=true&hide_border=true"
+  />
 
----
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZPhaethon&layout=compact&hide_border=true"
+  />
+</p>
 
 ## Current Focus
 
