@@ -26,23 +26,11 @@ My research focuses on building reliable and efficient AI systems for understand
 
 Current focus: panoramic semantic segmentation · geometry-aware dense prediction · remote sensing · AI for climate and CCUS.
 
-<p>
-  <a href="https://github.com/ZZZPhaethon">
-    <img src="https://img.shields.io/github/followers/ZZZPhaethon?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://YOUR_WEBSITE">
-    <img src="https://img.shields.io/badge/Website-222222?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/ZZZPhaethon?style=social)](https://github.com/ZZZPhaethon)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+[![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Website Badge](https://img.shields.io/badge/Website-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
 
 > Building AI systems that perceive, reason about, and contribute to a more sustainable world.
 
