@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="./assets/profile-banner-white.png"
+    src="./assets/profilewhite.png"
     alt="Yaowen Chang — AI Scientist, Remote Sensing & Sustainability"
     width="100%"
   />
