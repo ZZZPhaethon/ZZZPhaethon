@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm [Yaowen Chang](https://github.com/ZZZPhaethon) <p  align="right"><img src="https://github.com/ZZZPhaethon/ZZZPhaethon/blob/main/assets/profile.png" alt="visitor badge"/></p>
+### Hi there 👋 , I'm [Yaowen Chang](https://github.com/ZZZPhaethon) <p  align="right"><img src="./assets/profile.png" alt="visitor badge"/></p>
 I am a researcher interested in building reliable and efficient AI systems for understanding the physical world.
 
 My work currently focuses on **computer vision**, **semantic segmentation**, **3D-aware learning**, and **environmental intelligence**.
