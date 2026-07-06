@@ -14,7 +14,7 @@ README.md appears on the GitHub profile of ZZZPhaethon.
 
 <p align="center">
   <img
-    src="./assets/profile-banner-white.png"
+    src="./assets/profilewhite.png"
     alt="Yaowen Chang — AI Scientist, Remote Sensing and Sustainability"
     width="100%"
   />
