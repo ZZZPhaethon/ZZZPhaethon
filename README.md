@@ -1,4 +1,19 @@
-### Hi there 👋 , I'm [Yaowen Chang](https://github.com/ZZZPhaethon) <p  align="right"><img src="./assets/profilewhite.png" alt="visitor badge"/></p>
+### Hi there 👋, I'm [Yaowen Chang](https://github.com/ZZZPhaethon)
+
+<p align="right">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=ZZZPhaethon"
+    alt="visitor badge"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./assets/profile-banner-white.png"
+    alt="Yaowen Chang — AI Scientist, Remote Sensing & Sustainability"
+    width="100%"
+  />
+</p>
 I am a researcher interested in building reliable and efficient AI systems for understanding the physical world.
 
 My work currently focuses on **computer vision**, **semantic segmentation**, **3D-aware learning**, and **environmental intelligence**.
