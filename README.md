@@ -24,7 +24,7 @@ I'm an AI scientist working at the intersection of **computer vision**, **remote
 
 My research focuses on building reliable and efficient AI systems for understanding the physical world, with current interests in **semantic segmentation**, **panoramic vision**, **3D-aware learning**, **geospatial AI**, and **climate intelligence**.
 
-Current focus: panoramic semantic segmentation · geometry-aware dense prediction · remote sensing · AI for climate and CCUS.
+Current focus: panoramic semantic segmentation · geometry-aware dense prediction · remote sensing · AI for Science.
 
 [![GitHub followers](https://img.shields.io/github/followers/ZZZPhaethon?style=social)](https://github.com/ZZZPhaethon)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/yaowen-chang-81476a408)
