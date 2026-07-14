@@ -31,6 +31,7 @@ Current focus: panoramic semantic segmentation · geometry-aware dense predictio
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GppYpX0AAAAJ&hl=en)
 [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Website Badge](https://img.shields.io/badge/Website-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://zzzphaethon.github.io/)
+[![Blog Badge](https://img.shields.io/badge/Blog-FF7242?style=flat-square&logo=hexo&logoColor=white)](https://zzzphaethon.github.io/blog/)
 
 > Building AI systems that perceive, reason about, and contribute to a more sustainable world.
 
